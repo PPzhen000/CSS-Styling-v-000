@@ -50,3 +50,8 @@ figcaption {
   color: purple;
   text-decoration: none;
 }
+
+#details a:hover { 
+  color: purple;
+  text-decoration: none;
+}
